@@ -33,5 +33,6 @@ public class TesteContatoJpa {
 			System.out.printf("%20s %20s %20s", c.getNome(),c.getEndereco(),c.getTelefone());
 
 		}
+		System.out.println("Teste");
 	}
 }
