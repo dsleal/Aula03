@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/Access_JDBC30.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/activation.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/antlr-2.7.6.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/asm.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/cglib-2.1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/commons-beanutils-1.7.0.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/commons-collections-2.1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/commons-collections-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/commons-digester-1.8.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/commons-el-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/commons-fileupload-1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/commons-lang-2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/commons-logging-1.1.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/dom4j-1.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/hibernate3.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/hibernate-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/hibernate-commons-annotations.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/hibernate-entitymanager.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/itext-1.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/jasperreports-2.0.5.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/javassist.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/jboleto.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/jboss-archive-browsing.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/jsf-api-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/jsf-facelets.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/jsf-impl-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/jsf-security.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/jstl-1.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/jta.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/log4j-1.2.11.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/mail.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/Paradox_JDBC40.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/persistence.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/postgresql-8.3-603.jdbc4.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/richfaces-api-3.2.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/richfaces-impl-3.2.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/richfaces-ui-3.2.1-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/spring.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/spring-jpa.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/standard.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/tomahawk-1.1.6.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/xpp3_min-1.1.3.4.O.jar"/>
+	<classpathentry kind="lib" path="D:/Faculdade/4º Período/Desenvolvimento Web/libAmbient/xstream-1.2.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
